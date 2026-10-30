@@ -1,0 +1,396 @@
+{
+  "name": "Samar Abbas",
+  "headline": "AI | NLP | Generative AI | Data Analysis",
+  "role": "Artificial Intelligence Researcher & Academic Educator",
+  "location": "Mianyang, China",
+  "email": "sammarhashmi@gmail.com",
+  "phone": "+86 177 3842 1161",
+  "tagline": "Advancing reliable language intelligence through research, teaching and real-world AI applications.",
+  "summary": "Research-focused academic and AI professional with experience in machine learning, deep learning, natural language processing, generative AI and intelligent systems development. Research assistant experience at Xi'an Jiaotong University (2019–2024), academic teaching and department leadership roles, published research in international journals and conferences, and practical work on RAG-based question answering, LLM chatbots and data-driven applications.",
+  "education": [
+    {
+      "degree": "PhD",
+      "specialization": "Research related to Artificial Intelligence",
+      "institution": "Southwest University of Science and Technology",
+      "place": "Mianyang, China",
+      "period": "Award year not provided",
+      "source": "User-reported; not listed in the uploaded resume education section",
+      "verification": "Confirm official degree title and award date before publication"
+    },
+    {
+      "degree": "Master's Degree",
+      "specialization": "Computer Science and Technology",
+      "institution": "Xi'an Jiaotong University",
+      "place": "Xi'an, China",
+      "period": "Dates not supplied",
+      "source": "Uploaded resume",
+      "verification": "Confirm exact dates"
+    },
+    {
+      "degree": "Information Technology qualification",
+      "specialization": "Information Technology",
+      "institution": "PMAS-Arid Agriculture University",
+      "place": "Pakistan",
+      "period": "Dates not supplied",
+      "source": "Uploaded resume (degree level inconsistently labeled)",
+      "verification": "Confirm whether master's or bachelor's before publication"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Research Assistant",
+      "institution": "Xi'an Jiaotong University",
+      "location": "Xi'an, China",
+      "dates": "2019 – 2024",
+      "type": "Research",
+      "details": [
+        "Conducted research activities across machine learning, deep learning and natural language processing applications.",
+        "Worked with research datasets, preprocessing, experimental design and model optimization.",
+        "Developed and evaluated approaches for question answering, text mining, natural language understanding and sentiment analysis.",
+        "Contributed to scientific writing, technical documentation and research collaboration."
+      ]
+    },
+    {
+      "job": "Lecturer (Computer Science)",
+      "institution": "University of Education, D.G. Khan Campus",
+      "location": "Pakistan",
+      "dates": "05 Oct 2018 – 25 Jun 2019",
+      "type": "Teaching",
+      "details": [
+        "University-level teaching in Computer Science.",
+        "Academic instruction and student support."
+      ]
+    },
+    {
+      "job": "Lecturer",
+      "institution": "Ghazi University, D.G. Khan",
+      "location": "Pakistan",
+      "dates": "15 Jul 2018 – 13 Jul 2019",
+      "type": "Teaching",
+      "details": [
+        "University-level teaching experience, as recorded in the resume."
+      ]
+    },
+    {
+      "job": "Head of Department, Computer Science",
+      "institution": "Punjab Group of Colleges, Taunsa Campus",
+      "location": "Pakistan",
+      "dates": "07 Mar 2014 – 09 Sep 2016",
+      "type": "Leadership",
+      "details": [
+        "Computer Science department leadership and academic administration.",
+        "Teaching, mentoring and curriculum-related coordination."
+      ]
+    },
+    {
+      "job": "Lecturer (Computer Science)",
+      "institution": "Southern Punjab Redeemer's College, Taunsa Sharif",
+      "location": "Pakistan",
+      "dates": "15 Jul 2018 – 13 Jul 2019",
+      "type": "Teaching",
+      "details": [
+        "Computer Science teaching experience."
+      ]
+    },
+    {
+      "job": "Principal",
+      "institution": "The Country School, Taunsa Sharif",
+      "location": "Pakistan",
+      "dates": "Dates not provided",
+      "type": "Leadership",
+      "details": [
+        "Educational leadership position listed in the resume; appointment dates and responsibilities need confirmation."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "A deep multi-modal CNN for multi-instance multi-label image classification",
+      "venue": "IEEE Transactions on Image Processing",
+      "type": "Journal",
+      "tags": [
+        "Deep Learning",
+        "Multimodal AI",
+        "Computer Vision"
+      ],
+      "description": "Deep multimodal convolutional modeling for multi-instance, multi-label image classification.",
+      "impactFactor": {
+        "value": "15.3",
+        "year": "2025",
+        "source": "https://xplorestaging.ieee.org/xpl/issues?isnumber=11355710&punumber=83",
+        "note": "Journal-level 2025 JCR impact factor, not individual article impact"
+      }
+    },
+    {
+      "title": "Representation learning over multiple knowledge graphs for knowledge graphs alignment",
+      "venue": "Neurocomputing",
+      "type": "Journal",
+      "tags": [
+        "Knowledge Graphs",
+        "Representation Learning"
+      ],
+      "description": "Representation learning and knowledge graph alignment across multiple graph sources.",
+      "impactFactor": {
+        "value": "6.7",
+        "year": "2025",
+        "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/58/neurocomputing",
+        "note": "Journal-level 2025 JCR impact factor, not individual article impact"
+      }
+    },
+    {
+      "title": "HyReC-QA: A Hybrid Retrieval and Cross-Encoder Reranking Framework for Enhanced Textbook Question Answering",
+      "venue": "Expert Systems with Applications",
+      "type": "Journal",
+      "tags": [
+        "Question Answering",
+        "Retrieval",
+        "Cross-Encoder"
+      ],
+      "description": "Hybrid retrieval and cross-encoder reranking for textbook question answering.",
+      "impactFactor": {
+        "value": "9.4",
+        "year": "2025",
+        "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/60/Expert_Systems_with_Applications",
+        "note": "Journal-level 2025 JCR impact factor, not individual article impact"
+      }
+    },
+    {
+      "title": "Physics-Informed Multimodal Large Language Models for Intelligent Energy Question Answering",
+      "venue": "Results in Engineering",
+      "type": "Journal",
+      "tags": [
+        "LLMs",
+        "Multimodal AI",
+        "Reliable QA"
+      ],
+      "description": "Physics-informed multimodal language models for domain-specific energy question answering.",
+      "impactFactor": {
+        "value": "9.4",
+        "year": "2025",
+        "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/675/Results_in_Engineering",
+        "note": "Journal-level 2025 JCR impact factor, not individual article impact"
+      }
+    },
+    {
+      "title": "Generative AI-Driven Knowledge Base Question Answering with Differentiable Knowledge Graphs for Sustainable Engineering Education",
+      "venue": "2026 IEEE Global Engineering Conference (EDUCON)",
+      "type": "Conference",
+      "tags": [
+        "Generative AI",
+        "Education",
+        "Knowledge Graphs"
+      ],
+      "description": "Generative knowledge-base question answering with differentiable knowledge graphs in education."
+    },
+    {
+      "title": "Detecting False Data Injection Attacks in Smart Grids Using Machine Learning: A Comparative Study",
+      "venue": "International Conference on Smart Electrical Grid and Renewable Energy",
+      "type": "Conference",
+      "tags": [
+        "Machine Learning",
+        "Smart Grids",
+        "Security"
+      ],
+      "description": "Comparative machine learning study of false-data injection attack detection."
+    },
+    {
+      "title": "CA-GAT: A causal-aware graph attention framework for temporal knowledge graph question answering",
+      "venue": "Neural Networks",
+      "type": "Manuscript",
+      "status": "Decision in process",
+      "tags": [
+        "Temporal Knowledge Graphs",
+        "Question Answering",
+        "Causal-Aware Graph Attention"
+      ],
+      "description": "Proposes a causal-aware graph attention framework for temporal knowledge graph question answering; journal decision is in process. Not yet accepted or published.",
+      "impactFactor": {
+        "value": "7.2",
+        "year": "2025",
+        "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/565/Neural_Networks",
+        "note": "Journal-level 2025 JCR impact factor, not individual article impact"
+      }
+    }
+  ],
+  "researchAreas": [
+    {
+      "name": "Natural Language Processing",
+      "details": "Text understanding, semantic analysis and question answering."
+    },
+    {
+      "name": "Generative AI & Large Language Models",
+      "details": "LLM-based applications, conversational AI and domain-informed responses."
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "details": "Document retrieval, semantic matching, reranking and grounded QA."
+    },
+    {
+      "name": "Knowledge Graph Learning",
+      "details": "Knowledge graph representation and alignment, with a manuscript on causal-aware temporal knowledge graph question answering under editorial consideration."
+    },
+    {
+      "name": "Multimodal Deep Learning",
+      "details": "Combining textual and visual evidence for classification and question answering."
+    },
+    {
+      "name": "Applied & Reliable AI",
+      "details": "Engineering applications and evaluation of intelligent systems."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Chat with PDF",
+      "category": "GenAI / RAG",
+      "description": "A document question-answering application using an LLM and retrieval-augmented generation.",
+      "tags": [
+        "LLM",
+        "RAG",
+        "PDF QA"
+      ]
+    },
+    {
+      "name": "Custom Data-Driven AI Chatbot",
+      "category": "Generative AI",
+      "description": "A conversational AI application built around LLaMA-based language modeling.",
+      "tags": [
+        "LLaMA",
+        "Conversational AI"
+      ]
+    },
+    {
+      "name": "Educational AI Application",
+      "category": "Education",
+      "description": "An AI-based application project for educational use.",
+      "tags": [
+        "EdTech",
+        "Applied AI"
+      ]
+    },
+    {
+      "name": "StoryScribe",
+      "category": "Generative AI",
+      "description": "A creative story-generation application using the OpenAI API.",
+      "tags": [
+        "Text Generation",
+        "API Integration"
+      ]
+    },
+    {
+      "name": "AI-Powered Resume Parser & Analyzer",
+      "category": "NLP",
+      "description": "An LLM-based application for parsing and analyzing resume information.",
+      "tags": [
+        "Information Extraction",
+        "LLMs"
+      ]
+    },
+    {
+      "name": "Fake News & Misinformation Detector",
+      "category": "NLP",
+      "description": "A machine learning / NLP project for classifying potentially misleading content.",
+      "tags": [
+        "Text Classification",
+        "NLP"
+      ]
+    },
+    {
+      "name": "Movie Recommendation System",
+      "category": "Machine Learning",
+      "description": "Recommendation-system development project.",
+      "tags": [
+        "Recommenders",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Customer Churn Prediction",
+      "category": "Data Science",
+      "description": "A predictive modeling project for customer retention analysis.",
+      "tags": [
+        "Classification",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Personality Prediction",
+      "category": "Machine Learning",
+      "description": "A machine learning project involving personality prediction.",
+      "tags": [
+        "Predictive Modeling",
+        "ML"
+      ]
+    }
+  ],
+  "skills": {
+    "AI & research": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Generative AI",
+      "Large Language Models",
+      "Knowledge Graphs",
+      "Multimodal Learning",
+      "Information Retrieval",
+      "Question Answering",
+      "Experiment Design",
+      "Model Evaluation"
+    ],
+    "Programming & frameworks": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "NumPy",
+      "Pandas",
+      "SciPy",
+      "Matplotlib",
+      "Seaborn",
+      "NLTK",
+      "spaCy",
+      "Transformers"
+    ],
+    "Applied capabilities": [
+      "Text Preprocessing",
+      "Data Analysis",
+      "Model Training",
+      "Performance Optimization",
+      "Semantic Search",
+      "RAG",
+      "Prompt Engineering",
+      "Technical Documentation",
+      "Research Collaboration"
+    ],
+    "Professional": [
+      "University Teaching",
+      "Academic Leadership",
+      "Mentoring",
+      "Scientific Writing",
+      "Research Communication",
+      "Teamwork",
+      "Problem Solving"
+    ]
+  },
+  "awards": [
+    {
+      "title": "Xi'an Jiaotong University Scholarship",
+      "detail": "Academic scholarship listed in the resume."
+    },
+    {
+      "title": "X-Gen System Award",
+      "detail": "Best Full Stack Developer Award."
+    },
+    {
+      "title": "Best Computer Science Teacher",
+      "detail": "Recognition listed for Punjab Group of Colleges."
+    }
+  ],
+  "notes": [
+    "The PhD was provided in the conversation but is not shown in the uploaded resume's education section; verify degree title and year.",
+    "The Information Technology degree from PMAS-Arid is inconsistently labeled across pages; verify its level.",
+    "Some teaching appointment dates overlap in the uploaded resume; clarify concurrent roles.",
+    "The resume does not specify verified citation counts, exact authorship positions, h-index, funding amounts or teaching evaluations.",
+    "The second phone number in the source resume uses an unverified international prefix and is intentionally omitted from the public website.",
+    "No portrait photo was embedded in the resume document; supply a real image to replace the monogram placeholder."
+  ]
+}

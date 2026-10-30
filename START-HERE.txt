@@ -1,0 +1,28 @@
+MAKE A PUBLIC WEBSITE LINK (FREE HOSTING)
+
+This package is for ONLINE hosting. For a one-click local Windows app, download
+"Samar Academic Portfolio.exe" instead.
+
+1. Sign in to GitHub: https://github.com/new
+2. Create a repository and upload the files in THIS package to its root folder
+   (upload index.html inside public/, server.mjs in root, package.json in root).
+   DO NOT upload any .env file containing your API key.
+3. Sign in to Render: https://dashboard.render.com
+4. Click New -> Web Service, connect your GitHub repository, select Free.
+   Runtime: Node. Build command: npm install. Start command: npm start.
+   Render may also detect render.yaml and offer the blueprint configuration.
+5. Add environment variable GROQ_API_KEY = your NEW key (as a secret).
+6. Deploy. Render shows a public link such as:
+      https://your-chosen-name.onrender.com
+   This URL can be shared with recruiters or opened from any browser.
+
+LIMITATIONS:
+- Free Render services go to sleep after 15 minutes of inactivity and take
+  time to wake up on the next visit.
+- Groq usage may have separate limits/charges; monitor quotas and add abuse
+  protection before sharing a public chatbot widely.
+- The original resume download is included; review its personal details before
+  making the website public.
+- The server already includes basic per-IP rate limiting, but for high traffic,
+  strengthen security and limits.
+- The app will run in resume-based PREVIEW mode if GROQ_API_KEY is unset.
