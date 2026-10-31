@@ -10,30 +10,27 @@
   "education": [
     {
       "degree": "PhD",
-      "specialization": "Research related to Artificial Intelligence",
+      "specialization": "Artificial Intelligence, NLP, GenAI",
       "institution": "Southwest University of Science and Technology",
       "place": "Mianyang, China",
-      "period": "Award year not provided",
-      "source": "User-reported; not listed in the uploaded resume education section",
-      "verification": "Confirm official degree title and award date before publication"
+      "period": "2024 - continue (Predefense passed)",
+      "verification": "Control Sience and Engineering"
     },
     {
       "degree": "Master's Degree",
-      "specialization": "Computer Science and Technology",
+      "specialization": "Machine Learing, Deep Learning",
       "institution": "Xi'an Jiaotong University",
       "place": "Xi'an, China",
-      "period": "Dates not supplied",
-      "source": "Uploaded resume",
-      "verification": "Confirm exact dates"
+      "period": "2016 - 20218",
+      "verification": "Computer Science and Technology "
     },
     {
-      "degree": "Information Technology qualification",
+      "degree": "Master's Degree",
       "specialization": "Information Technology",
       "institution": "PMAS-Arid Agriculture University",
       "place": "Pakistan",
-      "period": "Dates not supplied",
-      "source": "Uploaded resume (degree level inconsistently labeled)",
-      "verification": "Confirm whether master's or bachelor's before publication"
+      "period": "2019 - 2012",
+      "verification": "Master of Information  Technology"
     }
   ],
   "experience": [
@@ -44,10 +41,10 @@
       "dates": "2019 – 2024",
       "type": "Research",
       "details": [
-        "Conducted research activities across machine learning, deep learning and natural language processing applications.",
+        "Conducted research activities across machine learning, deep learning and natural language processing.",
         "Worked with research datasets, preprocessing, experimental design and model optimization.",
         "Developed and evaluated approaches for question answering, text mining, natural language understanding and sentiment analysis.",
-        "Contributed to scientific writing, technical documentation and research collaboration."
+        "Contributed to scientific writing, technical documentation and research collaboration including team work."
       ]
     },
     {
@@ -58,7 +55,7 @@
       "type": "Teaching",
       "details": [
         "University-level teaching in Computer Science.",
-        "Academic instruction and student support."
+        "Academic instruction and student training coach."
       ]
     },
     {
@@ -68,7 +65,7 @@
       "dates": "15 Jul 2018 – 13 Jul 2019",
       "type": "Teaching",
       "details": [
-        "University-level teaching experience, as recorded in the resume."
+        "University-level teaching experience."
       ]
     },
     {
@@ -97,9 +94,9 @@
       "institution": "The Country School, Taunsa Sharif",
       "location": "Pakistan",
       "dates": "Dates not provided",
-      "type": "Leadership",
+      "type": "Leadership and Adminstrative",
       "details": [
-        "Educational leadership position listed in the resume; appointment dates and responsibilities need confirmation."
+        "Educational leadership position."
       ]
     }
   ],
@@ -116,7 +113,7 @@
       "description": "Deep multimodal convolutional modeling for multi-instance, multi-label image classification.",
       "impactFactor": {
         "value": "15.3",
-        "year": "2025",
+        "year": "2025-2026",
         "source": "https://xplorestaging.ieee.org/xpl/issues?isnumber=11355710&punumber=83",
         "note": "Journal-level 2025 JCR impact factor, not individual article impact"
       }
@@ -132,7 +129,7 @@
       "description": "Representation learning and knowledge graph alignment across multiple graph sources.",
       "impactFactor": {
         "value": "6.7",
-        "year": "2025",
+        "year": "2025-2026",
         "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/58/neurocomputing",
         "note": "Journal-level 2025 JCR impact factor, not individual article impact"
       }
@@ -149,7 +146,7 @@
       "description": "Hybrid retrieval and cross-encoder reranking for textbook question answering.",
       "impactFactor": {
         "value": "9.4",
-        "year": "2025",
+        "year": "2025-2026",
         "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/60/Expert_Systems_with_Applications",
         "note": "Journal-level 2025 JCR impact factor, not individual article impact"
       }
@@ -166,7 +163,7 @@
       "description": "Physics-informed multimodal language models for domain-specific energy question answering.",
       "impactFactor": {
         "value": "9.4",
-        "year": "2025",
+        "year": "2025-2026",
         "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/675/Results_in_Engineering",
         "note": "Journal-level 2025 JCR impact factor, not individual article impact"
       }
@@ -206,7 +203,7 @@
       "description": "Proposes a causal-aware graph attention framework for temporal knowledge graph question answering; journal decision is in process. Not yet accepted or published.",
       "impactFactor": {
         "value": "7.2",
-        "year": "2025",
+        "year": "2025-2026",
         "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/565/Neural_Networks",
         "note": "Journal-level 2025 JCR impact factor, not individual article impact"
       }
@@ -384,13 +381,5 @@
       "title": "Best Computer Science Teacher",
       "detail": "Recognition listed for Punjab Group of Colleges."
     }
-  ],
-  "notes": [
-    "The PhD was provided in the conversation but is not shown in the uploaded resume's education section; verify degree title and year.",
-    "The Information Technology degree from PMAS-Arid is inconsistently labeled across pages; verify its level.",
-    "Some teaching appointment dates overlap in the uploaded resume; clarify concurrent roles.",
-    "The resume does not specify verified citation counts, exact authorship positions, h-index, funding amounts or teaching evaluations.",
-    "The second phone number in the source resume uses an unverified international prefix and is intentionally omitted from the public website.",
-    "No portrait photo was embedded in the resume document; supply a real image to replace the monogram placeholder."
-  ]
+  ] 
 }
