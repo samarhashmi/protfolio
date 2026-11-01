@@ -5,32 +5,32 @@
   "location": "Mianyang, China",
   "email": "sammarhashmi@gmail.com",
   "phone": "+86 177 3842 1161",
-  "tagline": "Advancing reliable language intelligence through research, teaching and real-world AI applications.",
-  "summary": "Research-focused academic and AI professional with experience in machine learning, deep learning, natural language processing, generative AI and intelligent systems development. Research assistant experience at Xi'an Jiaotong University (2019–2024), academic teaching and department leadership roles, published research in international journals and conferences, and practical work on RAG-based question answering, LLM chatbots and data-driven applications.",
+  "tagline": "Exploring how intelligent systems work and how innovative research and creative teaching can transform complex thoughts into meaningful information and practical solutions.",
+  "summary": "An interdisciplinary researcher and educator working across artificial intelligence, language technologies, experimental machine learning, and the design of intelligent information systems.",
   "education": [
     {
       "degree": "PhD",
-      "specialization": "Artificial Intelligence, NLP, GenAI",
+      "specialization": "Control Science and Engineering (Artificial Intelligence)",
       "institution": "Southwest University of Science and Technology",
       "place": "Mianyang, China",
       "period": "2024 - continue (Predefense passed)",
-      "verification": "Control Sience and Engineering"
+      "verification": "Control Science and Engineering"
     },
     {
-      "degree": "Master's Degree",
-      "specialization": "Machine Learing, Deep Learning",
+      "degree": "Master’s Degree",
+      "specialization": "Computer Science and Technology",
       "institution": "Xi'an Jiaotong University",
       "place": "Xi'an, China",
-      "period": "2016 - 20218",
-      "verification": "Computer Science and Technology "
+      "period": "",
+      "verification": "Computer Science and Technology"
     },
     {
-      "degree": "Master's Degree",
-      "specialization": "Information Technology",
+      "degree": "Master’s Degree",
+      "specialization": "Master of Information Technology",
       "institution": "PMAS-Arid Agriculture University",
       "place": "Pakistan",
-      "period": "2019 - 2012",
-      "verification": "Master of Information  Technology"
+      "period": "",
+      "verification": "Master of Information Technology"
     }
   ],
   "experience": [
@@ -38,7 +38,7 @@
       "job": "Research Assistant",
       "institution": "Xi'an Jiaotong University",
       "location": "Xi'an, China",
-      "dates": "2019 – 2024",
+      "dates": "2020 – 2024",
       "type": "Research",
       "details": [
         "Conducted research activities across machine learning, deep learning and natural language processing.",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "job": "Lecturer (Computer Science)",
+      "job": "V-Lecturer (Computer Science)",
       "institution": "University of Education, D.G. Khan Campus",
       "location": "Pakistan",
       "dates": "05 Oct 2018 – 25 Jun 2019",
@@ -56,17 +56,19 @@
       "details": [
         "University-level teaching in Computer Science.",
         "Academic instruction and student training coach."
-      ]
+      ],
+      "note": "Visiting (part-time) university lecturer, contributing to undergraduate teaching and academic engagement."
     },
     {
-      "job": "Lecturer",
+      "job": "V-Lecturer",
       "institution": "Ghazi University, D.G. Khan",
       "location": "Pakistan",
       "dates": "15 Jul 2018 – 13 Jul 2019",
       "type": "Teaching",
       "details": [
         "University-level teaching experience."
-      ]
+      ],
+      "note": "Visiting (part-time) university lecturer, contributing to undergraduate teaching and academic engagement."
     },
     {
       "job": "Head of Department, Computer Science",
@@ -223,16 +225,16 @@
       "details": "Document retrieval, semantic matching, reranking and grounded QA."
     },
     {
-      "name": "Knowledge Graph Learning",
-      "details": "Knowledge graph representation and alignment, with a manuscript on causal-aware temporal knowledge graph question answering under editorial consideration."
+      "name": "Logical Natural Language Processing",
+      "details": "Smart, active, logical, object-based, natural question answering."
     },
     {
       "name": "Multimodal Deep Learning",
       "details": "Combining textual and visual evidence for classification and question answering."
     },
     {
-      "name": "Applied & Reliable AI",
-      "details": "Engineering applications and evaluation of intelligent systems."
+      "name": "Data Analysis",
+      "details": "Exploratory data analysis (EDA), data cleaning, statistical exploration, feature engineering, visualization and analytical interpretation."
     }
   ],
   "projects": [
@@ -359,7 +361,7 @@
       "Research Collaboration"
     ],
     "Professional": [
-      "University Teaching",
+      "University & College Teaching",
       "Academic Leadership",
       "Mentoring",
       "Scientific Writing",
@@ -371,7 +373,7 @@
   "awards": [
     {
       "title": "Xi'an Jiaotong University Scholarship",
-      "detail": "Academic scholarship listed in the resume."
+      "detail": "Academic scholarship awarded."
     },
     {
       "title": "X-Gen System Award",
@@ -381,5 +383,138 @@
       "title": "Best Computer Science Teacher",
       "detail": "Recognition listed for Punjab Group of Colleges."
     }
-  ] 
+  ],
+  "favoriteBooks": [
+    {
+      "title": "AI Engineering: Building Applications with Foundation Models",
+      "author": "Chip Huyen",
+      "date": "January 2025",
+      "publisher": "O’Reilly Media",
+      "link": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+      "overview": [
+        "Design real-world applications around foundation models and reliable evaluation.",
+        "Compare prompting, retrieval augmentation, fine-tuning and agentic workflows.",
+        "Balance model quality, serving latency, operating costs and safety."
+      ],
+      "image": "assets/books/ai-engineering.webp"
+    },
+    {
+      "title": "LLM Engineer’s Handbook",
+      "author": "Paul Iusztin & Maxime Labonne",
+      "date": "October 2024",
+      "publisher": "Packt",
+      "link": "https://www.packtpub.com/en-gb/product/llm-engineers-handbook-9781836200079",
+      "overview": [
+        "Architect end-to-end LLM products from data preparation to deployment.",
+        "Explore retrieval pipelines, fine-tuning, monitoring and model evaluation.",
+        "Practice production-focused workflows for scaling and maintaining LLM systems."
+      ],
+      "image": "assets/books/llm-engineers-handbook.webp"
+    },
+    {
+      "title": "Python Crash Course, 3rd Edition",
+      "author": "Eric Matthes",
+      "date": "January 2023",
+      "publisher": "No Starch Press",
+      "link": "https://nostarch.com/node/691",
+      "overview": [
+        "Learn Python fundamentals through concise exercises and clear examples.",
+        "Build practical projects involving games, visualizations and web applications.",
+        "Strengthen reusable coding skills for data science and AI development."
+      ],
+      "image": "assets/books/python-crash-course-3.webp"
+    },
+    {
+      "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+      "author": "Mayo Oshin & Nuno Campos",
+      "date": "February 2025",
+      "publisher": "O’Reilly Media",
+      "link": "https://www.oreilly.com/library/view/learning-langchain/9781098167271/",
+      "overview": [
+        "Compose LLM applications using structured prompts, tools and workflows.",
+        "Explore LangChain components, LangGraph orchestration and application state.",
+        "Implement practical retrieval, tool-use and multi-step AI systems."
+      ],
+      "image": "assets/books/learning-langchain.webp"
+    },
+    {
+      "title": "Building LLM Powered Applications",
+      "author": "Valentina Alto",
+      "date": "May 2024",
+      "publisher": "Packt",
+      "link": "https://www.packtpub.com/en-GB/product/building-llm-powered-applications-9781835462317",
+      "overview": [
+        "Integrate foundation models into useful software and intelligent assistants.",
+        "Study model selection, orchestration, customization and fine-tuning.",
+        "Build production-minded applications with quality and responsible-use checks."
+      ],
+      "image": "assets/books/building-llm-powered-applications.webp"
+    },
+    {
+      "title": "Natural Language Processing with Transformers, Revised Edition",
+      "author": "Lewis Tunstall, Leandro von Werra & Thomas Wolf",
+      "date": "May 2022",
+      "publisher": "O’Reilly Media",
+      "link": "https://www.oreilly.com/library/view/natural-language-processing/9781098136789/",
+      "overview": [
+        "Apply Hugging Face Transformers to classification and entity extraction.",
+        "Develop question answering, summarization and translation pipelines.",
+        "Fine-tune, evaluate and optimize transformer models for practical NLP."
+      ],
+      "image": "assets/books/nlp-with-transformers.webp"
+    },
+    {
+      "title": "Practical Natural Language Processing",
+      "author": "Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta & Harshit Surana",
+      "date": "June 2020",
+      "publisher": "O’Reilly Media",
+      "link": "https://www.oreilly.com/library/view/practical-natural-language/9781492054047/",
+      "overview": [
+        "Connect core NLP theory with real-world text-processing workflows.",
+        "Choose suitable approaches for classification, information extraction and search.",
+        "Develop, measure and improve NLP solutions for practical applications."
+      ],
+      "image": "assets/books/practical-nlp.webp"
+    },
+    {
+      "title": "Generative Deep Learning, 2nd Edition",
+      "author": "David Foster",
+      "date": "April 2023",
+      "publisher": "O’Reilly Media",
+      "link": "https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/",
+      "overview": [
+        "Understand how generative models learn and sample from data distributions.",
+        "Explore architectures for text, image and other creative generation tasks.",
+        "Build hands-on generative deep learning models with modern methods."
+      ],
+      "image": "assets/books/generative-deep-learning.webp"
+    },
+    {
+      "title": "Build a Large Language Model (From Scratch)",
+      "author": "Sebastian Raschka",
+      "date": "September 2024",
+      "publisher": "Manning",
+      "link": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
+      "overview": [
+        "Implement tokenization, embeddings, attention and GPT-style transformers.",
+        "Follow the stages of pretraining and instruction-focused fine-tuning.",
+        "Build an intuitive understanding of LLM internals through runnable code."
+      ],
+      "image": "assets/books/build-llm-from-scratch.webp"
+    },
+    {
+      "title": "Natural Language Processing with Python (Updated Edition)",
+      "author": "Cuantum Technologies LLC",
+      "date": "January 2025",
+      "publisher": "Packt",
+      "link": "https://www.oreilly.com/library/view/natural-language-processing/9781837021635/",
+      "overview": [
+        "Practice text cleaning, preprocessing and language-feature extraction.",
+        "Explore NLP tasks such as sentiment analysis and conversational applications.",
+        "Develop Python projects that connect concepts to working systems."
+      ],
+      "image": "assets/books/nlp-with-python-2025.webp"
+    }
+  ],
+  "about": "A research-driven academic and Artificial Intelligence professional with a strong foundation in scientific research, teaching, academic leadership, and intelligent systems development. Specialized in Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Large Language Models and Information Retrieval \n\nResearch experience encompasses scholarly publications, algorithm development, computational modeling, experimental design, model optimization, and performance evaluation. Contributions include intelligent question answering, semantic information retrieval, language understanding, and advanced data-driven applications.\n\nA multidisciplinary professional background combines international research experience, university-level teaching, academic administration, student mentorship, and collaborative innovation. Technical capabilities include Python programming and the development of intelligent chatbots, retrieval-augmented generation systems, and analytical solutions.\n\nCommitted to advancing scientific knowledge, fostering interdisciplinary collaboration, supporting high-quality education, and translating research into meaningful solutions to real-world challenges."
 }
